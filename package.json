@@ -1,0 +1,21 @@
+{
+  "name": "node_rest",
+  "version": "0.0.1",
+  "description": "Improved API for LAText",
+  "main": "server.js",
+  "scripts": {
+    "test": "console.log(\"Herro?\")"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "js",
+    "mlem"
+  ],
+  "author": "Bruk Berhane Asfaw",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mysql": "^2.15.0"
+  }
+}
